@@ -1,4 +1,6 @@
-<h1 align="center"> Hi 👋,&nbsp; I'm Sumanth S Mayakar
+<img alt="coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif" >
+<h1 align="center"> Hi 👋,&nbsp; I'm Sumanth S Mayakar </h1>
+<img align="right" alt="coding" src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" width="400">
 
 # 💫 About Me:
 🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Dev projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently learning React JS, Node JS, Express JS & MongoDB<br>💬 Ask me about MERN Stack<br>⚡ Fun fact - ______
