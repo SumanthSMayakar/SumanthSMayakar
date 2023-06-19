@@ -1,12 +1,12 @@
-<img alt="coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif" >
+<img alt="coding" src="https://gifs.eco.br/wp-content/uploads/2022/06/gifs-de-hacker-1.gif" height="500vh" >
 <h1 align="center"> Hi 👋,&nbsp; I'm Sumanth S Mayakar </h1>
-<img align="right" alt="coding" src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" width="400">
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=MERN-STACK+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=MERN-STACK+Developer,;Quick+Learner/Researcher/,;Love+to+learn+new+stuffs.." ></a>
 </p>
+<img align="right" alt="coding" src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" width="500">
 
-# 💫 About Me:
+
+# 💫 About :
 🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Dev projects<br>🤝 I’m looking for help with Data Structures and Algorithms<br>🌱 I’m currently learning React JS, Node JS, Express JS & MongoDB<br>💬 Ask me about MERN Stack<br>⚡ Fun fact - ______<br> 📫 How to reach me sumanthmayakar#@gmail.com
 
 
